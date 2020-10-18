@@ -28,5 +28,5 @@
 <img align="left" alt="EthanDevelops's Github Stats" src="https://githubreadme.ethandevelops.vercel.app/api?username=EthanDevelops&show_icons=true&hide_border=true" />
 </details>
 
-[website]: ethandevelops.github.io
+[website]: https://ethandevelops.github.io
 [youtube]: https://www.youtube.com/channel/UCjVyDoLpbc3T3sb63Q9l6bQ
