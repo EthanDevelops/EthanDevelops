@@ -2,12 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=ethandevelops.github.io&style=for-the-badge&url=https%3A%2F%2Fethandevelops.github.io)](https://ethandevelops.github.io)
 
-
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
