@@ -25,7 +25,7 @@
 - [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCjVyDoLpbc3T3sb63Q9l6bQ)
 
 ---
 
@@ -37,5 +37,5 @@
 <img align="left" alt="EthanDevelops's Github Stats" src="https://githubreadme.ethandevelops.vercel.app/api?username=EthanDevelops&show_icons=true&hide_border=true" />
 </details>
 
-[website]: ethandevelops.ithub.io
-[youtube]: https://youtube.com/codeSTACKr
+[website]: ethandevelops.github.io
+[youtube]: https://www.youtube.com/channel/UCjVyDoLpbc3T3sb63Q9l6bQ
