@@ -1,6 +1,7 @@
 ### Hi there, I'm EthanDevelops 👋
 
 [![Website](https://img.shields.io/website?label=bennun.me&style=for-the-badge&url=https%3A%2F%2Fbennun.me)](https://bennun.me)
+![Discord](https://img.shields.io/discord/768130260818329621?color=lightblue&label=Discord&style=for-the-badge)
 
 ### Connect with me:
 
