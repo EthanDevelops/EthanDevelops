@@ -1,6 +1,6 @@
 ### Hi there, I'm EthanDevelops 👋
 
-![Website](https://img.shields.io/website?color=blue&down_color=red&down_message=OFFLINE&label=bennun.me&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fbennun.me)/[https://bennun.me]
+[![Website](https://img.shields.io/website?label=bennun.me&style=for-the-badge&url=https%3A%2F%2Fbennun.me)](https://bennun.me)
 
 ### Connect with me:
 
