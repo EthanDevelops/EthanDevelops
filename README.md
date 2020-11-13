@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="EthanDevelops's Github Stats" src="https://githubreadme.ethandevelops.vercel.app/api?username=EthanDevelops&show_icons=true&hide_border=true" />
+<img align="left" alt="EthanDevelops's Github Stats" src="https://readme.bennun.me/api?username=EthanDevelops&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://ethandevelops.github.io
