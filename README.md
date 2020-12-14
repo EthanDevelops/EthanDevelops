@@ -34,6 +34,14 @@
 - [Github Discord Bot #26 (back to normal)](https://ci.ethan.bennun.me/job/Github%20Discord%20Bot/26/)
 <!-- BLOG-POST-LIST:END -->
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 </details>
 
 <details>
