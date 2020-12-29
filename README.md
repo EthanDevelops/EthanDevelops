@@ -27,11 +27,8 @@
 ### 📕 Latest CI / CD Feed
 
 <!-- BLOG-POST-LIST:START -->
-- [Github Discord Bot #31 (stable)](https://ci.ethan.bennun.me/job/Github%20Discord%20Bot/31/)
-- [Github Discord Bot #30 (stable)](https://ci.ethan.bennun.me/job/Github%20Discord%20Bot/30/)
-- [Github Discord Bot #29 (stable)](https://ci.ethan.bennun.me/job/Github%20Discord%20Bot/29/)
-- [Github Discord Bot #28 (stable)](https://ci.ethan.bennun.me/job/Github%20Discord%20Bot/28/)
-- [Github Discord Bot #27 (stable)](https://ci.ethan.bennun.me/job/Github%20Discord%20Bot/27/)
+- [Discord Bot #2 (back to normal)](https://ci.ethan.bennun.me/job/Discord%20Bot/2/)
+- [Discord Bot #1 (broken since this build)](https://ci.ethan.bennun.me/job/Discord%20Bot/1/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
