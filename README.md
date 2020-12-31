@@ -27,6 +27,7 @@
 ### 📕 Latest CI / CD Feed
 
 <!-- BLOG-POST-LIST:START -->
+- [Mika's Website #1 (stable)](https://ci.ethan.bennun.me/job/Mika's%20Website/1/)
 - [Discord Bot #2 (back to normal)](https://ci.ethan.bennun.me/job/Discord%20Bot/2/)
 - [Discord Bot #1 (broken since this build)](https://ci.ethan.bennun.me/job/Discord%20Bot/1/)
 <!-- BLOG-POST-LIST:END -->
