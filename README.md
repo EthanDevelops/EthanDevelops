@@ -38,9 +38,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/HackerPoet/NonEuclidean/issues/37) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
 2. 🗣 Commented on [#37](https://github.com/HackerPoet/NonEuclidean/issues/37) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
-3. 🗣 Commented on [#36](https://github.com/HackerPoet/NonEuclidean/issues/36) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
+3. 🗣 Commented on [#37](https://github.com/HackerPoet/NonEuclidean/issues/37) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
 4. 🗣 Commented on [#36](https://github.com/HackerPoet/NonEuclidean/issues/36) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
-5. 🗣 Commented on [#37](https://github.com/HackerPoet/NonEuclidean/issues/37) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
+5. 🗣 Commented on [#36](https://github.com/HackerPoet/NonEuclidean/issues/36) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
 <!--END_SECTION:activity-->
 
 </details>
