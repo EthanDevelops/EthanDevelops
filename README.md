@@ -36,11 +36,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/EthanDevelopmentOrg/MinecraftPlugin/issues/1) in [EthanDevelopmentOrg/MinecraftPlugin](https://github.com/EthanDevelopmentOrg/MinecraftPlugin)
-2. 🗣 Commented on [#37](https://github.com/HackerPoet/NonEuclidean/issues/37) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
-3. 🗣 Commented on [#37](https://github.com/HackerPoet/NonEuclidean/issues/37) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
+1. 🎉 Merged PR [#1](https://github.com/EthanDevelops/MinecraftForge/pull/1) in [EthanDevelops/MinecraftForge](https://github.com/EthanDevelops/MinecraftForge)
+2. 💪 Opened PR [#1](https://github.com/EthanDevelops/MinecraftForge/pull/1) in [EthanDevelops/MinecraftForge](https://github.com/EthanDevelops/MinecraftForge)
+3. ❗️ Opened issue [#1](https://github.com/EthanDevelopmentOrg/MinecraftPlugin/issues/1) in [EthanDevelopmentOrg/MinecraftPlugin](https://github.com/EthanDevelopmentOrg/MinecraftPlugin)
 4. 🗣 Commented on [#37](https://github.com/HackerPoet/NonEuclidean/issues/37) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
-5. 🗣 Commented on [#36](https://github.com/HackerPoet/NonEuclidean/issues/36) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
+5. 🗣 Commented on [#37](https://github.com/HackerPoet/NonEuclidean/issues/37) in [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean)
 <!--END_SECTION:activity-->
 
 </details>
